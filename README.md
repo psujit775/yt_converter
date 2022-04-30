@@ -2,8 +2,10 @@
 ## To RUN server on localhost
 
 Prerequisite
-Django
-ffmpeg
+
+Django >= 4.0.4
+
+ffmpeg >=5.0.1
 
 ```
 pip install -r requirements.txt 
